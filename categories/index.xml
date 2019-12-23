@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Icarus Diaries</title>
-    <link>/categories/</link>
+    <link>https://blog.mtita.me/categories/</link>
     <description>Recent content in Categories on Icarus Diaries</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -15,17 +15,17 @@
 </copyright>
     <lastBuildDate>Sun, 17 Nov 2019 21:09:20 +0100</lastBuildDate>
     
-        <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://blog.mtita.me/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>blog</title>
-        <link>/categories/blog/</link>
+        <link>https://blog.mtita.me/categories/blog/</link>
         <pubDate>Sun, 17 Nov 2019 21:09:20 +0100</pubDate>
         <author>hi@mtita.me (Mohamed Tita)</author>
-        <guid>/categories/blog/</guid>
+        <guid>https://blog.mtita.me/categories/blog/</guid>
         <description></description>
       </item>
       

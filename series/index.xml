@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Icarus Diaries</title>
-    <link>/series/</link>
+    <link>https://blog.mtita.me/series/</link>
     <description>Recent content in Series on Icarus Diaries</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -14,7 +14,7 @@
            width=&#34;80&#34; height=&#34;15&#34; alt=&#34;WTFPL&#34; /&gt;&lt;/a&gt;
 </copyright>
     
-        <atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://blog.mtita.me/series/index.xml" rel="self" type="application/rss+xml" />
     
     
     
