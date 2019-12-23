@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Icarus Diaries</title>
-    <link>https://blog.mtita.me/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Icarus Diaries</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -15,17 +15,17 @@
 </copyright>
     <lastBuildDate>Sun, 17 Nov 2019 21:09:20 +0100</lastBuildDate>
     
-        <atom:link href="https://blog.mtita.me/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>thoughts</title>
-        <link>https://blog.mtita.me/tags/thoughts/</link>
+        <link>/tags/thoughts/</link>
         <pubDate>Sun, 17 Nov 2019 21:09:20 +0100</pubDate>
         <author>hi@mtita.me (Mohamed Tita)</author>
-        <guid>https://blog.mtita.me/tags/thoughts/</guid>
+        <guid>/tags/thoughts/</guid>
         <description></description>
       </item>
       

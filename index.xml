@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Icarus Diaries</title>
-    <link>https://blog.mtita.me/</link>
+    <link>/</link>
     <description>Recent content on Icarus Diaries</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -15,27 +15,27 @@
 </copyright>
     <lastBuildDate>Sun, 17 Nov 2019 21:09:20 +0100</lastBuildDate>
     
-        <atom:link href="https://blog.mtita.me/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>If you survived somehow, keep some part of my soul inside your own</title>
-        <link>https://blog.mtita.me/posts/if-you/</link>
+        <link>/posts/if-you/</link>
         <pubDate>Sun, 17 Nov 2019 21:09:20 +0100</pubDate>
         <author>hi@mtita.me (Mohamed Tita)</author>
-        <guid>https://blog.mtita.me/posts/if-you/</guid>
+        <guid>/posts/if-you/</guid>
         <description>I don&#39;t believe in the existence of a soul, at least not by the religious definition of it.
  I&#39;ve always been occupied with this thought &amp;hellip; what is a soul? … is it enough to say that it&#39;s the very definition of knowledge and experience ? &amp;hellip; can we assume that we are all born equal &amp;hellip; identical white papers waiting to be filled with misery and suffering.</description>
       </item>
       
       <item>
         <title>من تقرير الإنترنت والحكومات العربية - تونس</title>
-        <link>https://blog.mtita.me/posts/internet_anhritun/</link>
+        <link>/posts/internet_anhritun/</link>
         <pubDate>Sun, 19 Nov 2017 20:32:05 +0100</pubDate>
         <author>hi@mtita.me (Mohamed Tita)</author>
-        <guid>https://blog.mtita.me/posts/internet_anhritun/</guid>
+        <guid>/posts/internet_anhritun/</guid>
         <description>جزء من تقرير نشرته الشبكة العربية لمعلومات حقوق الإنسان بتاريخ 16 أكتوبر 2017 بعنوان &amp;ldquo;المعركة لم تنته - الإنترنت والحكومات العربية&amp;rdquo; كنت قد شاركت بإعداد الجزء الخاص بتونس.
 للإطلاع علي التقرير كامل علي موقع الشبكة
 للوصول للموقع من داخل مصر
@@ -46,30 +46,30 @@ PDF
       
       <item>
         <title>عن مبادرة فيسبوك لمواجهة الإبتزاز الإلكتروني</title>
-        <link>https://blog.mtita.me/posts/fb/</link>
+        <link>/posts/fb/</link>
         <pubDate>Thu, 09 Nov 2017 20:28:08 +0100</pubDate>
         <author>hi@mtita.me (Mohamed Tita)</author>
-        <guid>https://blog.mtita.me/posts/fb/</guid>
+        <guid>/posts/fb/</guid>
         <description>فيسبوك بيطور طريقة لمواجهة الإبتزاز الإلكتروني، الفكرة ببساطة أنه لما يتم إبتزاز شخص بنشر صور شخصية ليه اللي بتعمله اللي بيتم إبتزازها إنها بتبعت الصور لنفسها علي الفيسبوك ماسنجر وقتها المكن بتاع فيسبوك بيولد بصمة إلكترونية للصورة وبيحتفظ بيها ولما بيحاول شخص تاني يرفع نفس الصورة علي أي منصة خاصة بيفيسبوك بيتم منعه ومعرفش إذا كان في إجراءات تانية بعد المنع ولا لا
  نظرياً الموضوع مفيد ولازم تحصل أي مبادرة لمنع حوادث الإبتزاز اللي زادت جداً في الفترة الأخيرة بس عملياً انا مش قادر أخد موقف من الموضوع وبالنسبة لي مربك جداً ولو التقنية دي شافت النور مش هقدر أنصح حد بيها لأسباب كتير أولها أنه في النهاية فيسبوك شركة ضخمة بتعتمد على علم البيانات وتحليلها بشكل أساسي في تحسين منتجاتها وبتنتهك في كل لحظة كل مبادئ الخصوصية اللي أنا مؤمن بيها بتسجل أصواتنا وبتحتفظ بمناقشاتنا وبتفضيلاتنا الشخصية وبتتاجر بيهم تجارة بمليارات ده غير إن &amp;ldquo;إمتلاك&amp;rdquo; جهة أو شركة أو شخص للكم ده من المعلومات عن البشر شئ مرعب ومش من المفترض أنه يتم التسامح معاه إطلاقاً خصوصاً أنه الضمانات دايماً بتكون في سياق شبه اللي مكتوب في المقال كدة &amp;ldquo;Facebook doesn’t look at the image, well at least no one at Facebook does (or should)&amp;quot;.</description>
       </item>
       
       <item>
         <title>تشغيل تطبيق سيجنال لسطح المكتب بدون كروم</title>
-        <link>https://blog.mtita.me/posts/signal_desktop_obsolete/</link>
+        <link>/posts/signal_desktop_obsolete/</link>
         <pubDate>Thu, 28 Sep 2017 20:34:52 +0100</pubDate>
         <author>hi@mtita.me (Mohamed Tita)</author>
-        <guid>https://blog.mtita.me/posts/signal_desktop_obsolete/</guid>
+        <guid>/posts/signal_desktop_obsolete/</guid>
         <description>تطبيق التراسل الأمن الشهير &amp;ldquo;سيجنال&amp;rdquo; عنده إصدار لسطح المكتب، عيبه الأساسي هو أنه تطبيق كروم بمعنى أنه مبني للعمل تحت بيئة متصفح كروم ومينفعش يشتغل في معظم الحالات بدون وجود كروم أو كروميوم &amp;quot; النسخة مفتوحة المصدر منه &amp;quot; شغال في الخلفية
  طبعاً بغض النظر عن وجهة نظر مطوري التطبيق اللي في الغالب مبنية علي توفير الموارد بالأساس بسبب إن تطبيقات كروم ممكن تشتغل بسهولة علي أغلب المنصات &amp;ldquo;طبعاً بعد تنصيب كروم عليها&amp;rdquo; وده هيوفر وقت ومجهود لتطوير تطبيق سطح مكتب لكل منصة عمل أو نظام تشغيل والدخول في صداع التحزيم والصيانة والتطوير المستمر.</description>
       </item>
       
       <item>
         <title>أي هري - التعذيب 1</title>
-        <link>https://blog.mtita.me/posts/torture1/</link>
+        <link>/posts/torture1/</link>
         <pubDate>Fri, 08 Sep 2017 20:39:27 +0100</pubDate>
         <author>hi@mtita.me (Mohamed Tita)</author>
-        <guid>https://blog.mtita.me/posts/torture1/</guid>
+        <guid>/posts/torture1/</guid>
         <description>نشر بتاريخ 14-5-2017 في المدونة القديمة
  من فترة قريبة كنت نزيل في زنزانة في مبنى أمن دولة ما، ولأن ده مش شئ مفاجئ ولا غير طبيعي خصوصاً إني مقدرش أعد على صوابع إيد واحدة أشخاص أعرفهم مبيتوش ليلة أو ليلتين علي الأقل على البورش من 2011 لحد دلوقتي فخلينا في المهم …
  في المواقف اللي زي دي … عينين متغميين وكلابش خلفي وشخص بيلعب كل الألعاب اللي إتعلم إنها ممكن تكسر أي شخص أو ترعبه حد إنه “يقول كل حاجة” بس الأزمة هنا … هي إيه كل حاجة اللي عايز تسمعها يا فندم .</description>
@@ -77,10 +77,10 @@ PDF
       
       <item>
         <title>Contact</title>
-        <link>https://blog.mtita.me/contact/</link>
+        <link>/contact/</link>
         <pubDate>Wed, 23 Dec 2015 12:58:20 +0100</pubDate>
         <author>hi@mtita.me (Mohamed Tita)</author>
-        <guid>https://blog.mtita.me/contact/</guid>
+        <guid>/contact/</guid>
         <description>Email | hi@mtita.me
 pgp - Public key | 0x4F32728A5E20CAE9
 PGP - Fingerprint | 93E6 A6A2 5634 03E0 6A86 8F0E 4F32 728A 5E20 CAE9
@@ -94,10 +94,10 @@ Tor is blocked in your country : https://tinyurl.com/uvvgxxa | https://tinyurl.c
       
       <item>
         <title>About</title>
-        <link>https://blog.mtita.me/page/about/</link>
+        <link>/page/about/</link>
         <pubDate>Sat, 21 Dec 2013 19:06:17 +0100</pubDate>
         <author>hi@mtita.me (Mohamed Tita)</author>
-        <guid>https://blog.mtita.me/page/about/</guid>
+        <guid>/page/about/</guid>
         <description>ليه إيكاروس ؟
  إيكاروس شخصية خيالية من الميثولوجيا اليونانية وزي أي قصة خيالية كل واحد بيفسرها علي مزاجه وبيشوف حكمة القصة بمنظور مختلف أنا بشوفها حدوتة مألوفة جدا، ما بين أجنحة ملزوقة بالشمع وشمس شديدة مبترحمش لكن مثيرة للفضول جداً ورغبة في التجربة وعينين مفتوحة علي العالم ومتجاهلة كل التحذيرات وسقوط مؤلم في النهاية … فعلاً قصة مألوفة جداً
  ليه ؟؟
