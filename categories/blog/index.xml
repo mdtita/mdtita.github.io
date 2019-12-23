@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blog on Icarus Diaries</title>
-    <link>https://blog.mtita.me/categories/blog/</link>
+    <link>/categories/blog/</link>
     <description>Recent content in blog on Icarus Diaries</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -15,17 +15,17 @@
 </copyright>
     <lastBuildDate>Sun, 17 Nov 2019 21:09:20 +0100</lastBuildDate>
     
-        <atom:link href="https://blog.mtita.me/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>If you survived somehow, keep some part of my soul inside your own</title>
-        <link>https://blog.mtita.me/posts/if-you/</link>
+        <link>/posts/if-you/</link>
         <pubDate>Sun, 17 Nov 2019 21:09:20 +0100</pubDate>
         <author>hi@mtita.me (Mohamed Tita)</author>
-        <guid>https://blog.mtita.me/posts/if-you/</guid>
+        <guid>/posts/if-you/</guid>
         <description>I don&#39;t believe in the existence of a soul, at least not by the religious definition of it.
  I&#39;ve always been occupied with this thought &amp;hellip; what is a soul? … is it enough to say that it&#39;s the very definition of knowledge and experience ? &amp;hellip; can we assume that we are all born equal &amp;hellip; identical white papers waiting to be filled with misery and suffering.</description>
       </item>
