@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://blog.mtita.me/ar/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.mtita.me/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://blog.mtita.me/ar/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.mtita.me/ar/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.mtita.me/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://blog.mtita.me/ar/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.mtita.me/ar/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.mtita.me/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://blog.mtita.me/ar/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.mtita.me/ar/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.mtita.me/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://blog.mtita.me/ar/"
+                />
+  </url>
+  
+</urlset>
