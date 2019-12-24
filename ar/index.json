@@ -1,6 +1,6 @@
 [
 {
-	"uri": "/ar/categories/",
+	"uri": "https://blog.mtita.me/ar/categories/",
 	"title": "Categories",
 	"tags": [],
 	"categories": [],
@@ -9,7 +9,7 @@
 	"content": ""
 },
 {
-	"uri": "/ar/series/",
+	"uri": "https://blog.mtita.me/ar/series/",
 	"title": "Series",
 	"tags": [],
 	"categories": [],
@@ -18,7 +18,7 @@
 	"content": ""
 },
 {
-	"uri": "/ar/tags/",
+	"uri": "https://blog.mtita.me/ar/tags/",
 	"title": "Tags",
 	"tags": [],
 	"categories": [],
@@ -27,7 +27,7 @@
 	"content": ""
 },
 {
-	"uri": "/ar/",
+	"uri": "https://blog.mtita.me/ar/",
 	"title": "يوميات إيكاروس",
 	"tags": [],
 	"categories": [],
