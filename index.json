@@ -47,7 +47,7 @@
 {
 	"uri": "/post/2019/",
 	"title": "2019",
-	"tags": ["thoughts", "personal"],
+	"tags": ["thoughts", "personal", "blog"],
 	"categories": [],
 	"series": [],
 	"description": "",
@@ -55,6 +55,15 @@
 },
 {
 	"uri": "/categories/blog/",
+	"title": "blog",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/tags/blog/",
 	"title": "blog",
 	"tags": [],
 	"categories": [],

@@ -21,6 +21,15 @@
     
       
       <item>
+        <title>blog</title>
+        <link>/tags/blog/</link>
+        <pubDate>Tue, 31 Dec 2019 19:01:55 +0100</pubDate>
+        <author>hi@mtita.me (Mohamed Tita)</author>
+        <guid>/tags/blog/</guid>
+        <description></description>
+      </item>
+      
+      <item>
         <title>personal</title>
         <link>/tags/personal/</link>
         <pubDate>Tue, 31 Dec 2019 19:01:55 +0100</pubDate>
