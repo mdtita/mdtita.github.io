@@ -185,7 +185,7 @@
 <meta property="og:url" content="https://blog.mtita.me/posts/signal_desktop_obsolete/">
 <meta property="og:type" content="article">
 
-<meta name="generator" content="Hugo 0.60.1" />
+<meta name="generator" content="Hugo 0.62.0" />
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="theme-color" content="#ffffff">
 <link rel="canonical" href="https://blog.mtita.me/posts/signal_desktop_obsolete/">
@@ -438,8 +438,11 @@
 <li>
 <p>مواصفات بيئة العمل اللي تمت عليها التجربة</p>
 <ul>
-<li>نظام التشغيل : فيدورا 26 &ldquo;جنو/لينكس&rdquo;</li>
+<li>نظام التشغيل : فيدورا 26 &ldquo;جنو/لينكس&rdquo;
+<ul>
 <li>سطح المكتب : جنوم 3.24.2</li>
+</ul>
+</li>
 <li>إصدار النواة : 4.12.13</li>
 </ul>
 </li>
@@ -460,12 +463,12 @@
 <pre class="chroma"><code class="language-bash" data-lang="bash">sudo dnf install nodejs -y
 </code></pre></td></tr></table>
 </div>
-</div> </div>
+</div></div>
 <p>بعد الإنتهاء من تنصيب nodejs نقوم بتنصيب منصة العمل nw وهي منصة مبنية علي كروم ومخصصة لتطوير وتشغيل تطبيقات الويب، أهم مميزاتها إن إستهلاكها للموارد أقل بكتير من كروم وطبعاً من electron.</p>
 </div>
 <pre><code>sudo npm install nw -g
 </code></pre>
- <div dir="rtl">
+<div dir="rtl">
     بعد كدة هنقوم بإنشاء مسار جديد للتطبيق
  </div>
 <pre><code>mkdir -p ~/apps/Signal
