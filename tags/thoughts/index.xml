@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>thoughts on Icarus Diaries</title>
-    <link>https://blog.mtita.me/tags/thoughts/</link>
+    <link>/tags/thoughts/</link>
     <description>Recent content in thoughts on Icarus Diaries</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -15,27 +15,27 @@
 </copyright>
     <lastBuildDate>Tue, 31 Dec 2019 19:01:55 +0100</lastBuildDate>
     
-        <atom:link href="https://blog.mtita.me/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>2019</title>
-        <link>https://blog.mtita.me/post/2019/</link>
+        <link>/post/2019/</link>
         <pubDate>Tue, 31 Dec 2019 19:01:55 +0100</pubDate>
         <author>hi@mtita.me (Mohamed Tita)</author>
-        <guid>https://blog.mtita.me/post/2019/</guid>
+        <guid>/post/2019/</guid>
         <description>التدوينة دي مرت بمراحل كتير بداية من بوست على فيسبوك ميشوفهوش غير ناس محددة مروراً بتسجيل صوتي الوصول ليه محدود برضو لحد ما قررت في النهاية إني أكتب بشكل عام خصوصاً إني مش عارف أنا عايز أقول إيه تحديداً وتحديداً عايز أقول لمين.
  في صديق دايماً يقولي إني عندي نزوع للدراما وإني دايماً عندي نظرة أبوكالبتيك للعالم يمكن ده حقيقي لكن اللي متأكد منه إني مش شخص رومانسي (المدرسة الفلسفية مش التعبير الدارج عن علاقات الحب).</description>
       </item>
       
       <item>
         <title>If you survived somehow, keep some part of my soul inside your own</title>
-        <link>https://blog.mtita.me/posts/if-you/</link>
+        <link>/posts/if-you/</link>
         <pubDate>Sun, 17 Nov 2019 21:09:20 +0100</pubDate>
         <author>hi@mtita.me (Mohamed Tita)</author>
-        <guid>https://blog.mtita.me/posts/if-you/</guid>
+        <guid>/posts/if-you/</guid>
         <description>I don&#39;t believe in the existence of a soul, at least not by the religious definition of it.
  I&#39;ve always been occupied with this thought &amp;hellip; what is a soul? … is it enough to say that it&#39;s the very definition of knowledge and experience ? &amp;hellip; can we assume that we are all born equal &amp;hellip; identical white papers waiting to be filled with misery and suffering.</description>
       </item>

@@ -3,131 +3,141 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://blog.mtita.me/post/2019/</loc>
-    <lastmod>2019-12-31T19:01:55+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.mtita.me/categories/blog/</loc>
-    <lastmod>2019-12-31T19:01:55+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.mtita.me/categories/</loc>
-    <lastmod>2019-12-31T19:01:55+01:00</lastmod>
+    <loc>/categories/</loc>
+    <lastmod>2019-12-31T22:37:38+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://blog.mtita.me/ar/categories/"
+                href="/ar/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.mtita.me/categories/"
+                href="/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://blog.mtita.me/</loc>
-    <lastmod>2019-12-31T19:01:55+01:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2019-12-31T22:37:38+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://blog.mtita.me/ar/"
+                href="/ar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.mtita.me/"
+                href="/"
                 />
   </url>
   
   <url>
-    <loc>https://blog.mtita.me/tags/personal/</loc>
+    <loc>/page/mirrors/</loc>
+    <lastmod>2019-12-31T22:37:38+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/page/</loc>
+    <lastmod>2019-12-31T22:37:38+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/page/</loc>
+    <lastmod>2019-12-31T22:37:38+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2019/</loc>
     <lastmod>2019-12-31T19:01:55+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.mtita.me/post/</loc>
+    <loc>/categories/blog/</loc>
     <lastmod>2019-12-31T19:01:55+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.mtita.me/tags/</loc>
+    <loc>/tags/personal/</loc>
+    <lastmod>2019-12-31T19:01:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-12-31T19:01:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
     <lastmod>2019-12-31T19:01:55+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://blog.mtita.me/ar/tags/"
+                href="/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.mtita.me/tags/"
+                href="/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://blog.mtita.me/tags/thoughts/</loc>
+    <loc>/tags/thoughts/</loc>
     <lastmod>2019-12-31T19:01:55+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.mtita.me/posts/if-you/</loc>
+    <loc>/posts/if-you/</loc>
     <lastmod>2019-11-17T21:09:20+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.mtita.me/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2019-11-17T21:09:20+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.mtita.me/posts/internet_anhritun/</loc>
+    <loc>/posts/internet_anhritun/</loc>
     <lastmod>2017-11-19T20:32:05+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.mtita.me/posts/fb/</loc>
+    <loc>/posts/fb/</loc>
     <lastmod>2017-11-09T20:28:08+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.mtita.me/posts/signal_desktop_obsolete/</loc>
+    <loc>/posts/signal_desktop_obsolete/</loc>
     <lastmod>2017-09-28T20:34:52+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.mtita.me/posts/torture1/</loc>
+    <loc>/posts/torture1/</loc>
     <lastmod>2017-09-08T20:39:27+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.mtita.me/contact/</loc>
+    <loc>/contact/</loc>
     <lastmod>2015-12-23T12:58:20+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.mtita.me/page/about/</loc>
+    <loc>/page/about/</loc>
     <lastmod>2013-12-21T19:06:17+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.mtita.me/page/</loc>
-    <lastmod>2013-12-21T19:06:17+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.mtita.me/series/</loc>
+    <loc>/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://blog.mtita.me/ar/series/"
+                href="/ar/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.mtita.me/series/"
+                href="/series/"
                 />
   </url>
   

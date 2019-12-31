@@ -3,58 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://blog.mtita.me/ar/categories/</loc>
+    <loc>/ar/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.mtita.me/categories/"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://blog.mtita.me/ar/categories/"
+                href="/ar/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://blog.mtita.me/ar/series/</loc>
+    <loc>/ar/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.mtita.me/series/"
+                href="/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://blog.mtita.me/ar/series/"
+                href="/ar/series/"
                 />
   </url>
   
   <url>
-    <loc>https://blog.mtita.me/ar/tags/</loc>
+    <loc>/ar/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.mtita.me/tags/"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://blog.mtita.me/ar/tags/"
+                href="/ar/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://blog.mtita.me/ar/</loc>
+    <loc>/ar/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.mtita.me/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://blog.mtita.me/ar/"
+                href="/ar/"
                 />
   </url>
   

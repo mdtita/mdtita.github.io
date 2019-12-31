@@ -1,41 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Icarus Diaries</title>
-    <link>/categories/</link>
-    <description>Recent content in Categories on Icarus Diaries</description>
+    <title>page on Icarus Diaries</title>
+    <link>/categories/page/</link>
+    <description>Recent content in page on Icarus Diaries</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hi@mtita.me (Mohamed Tita)</managingEditor>
     <webMaster>hi@mtita.me (Mohamed Tita)</webMaster>
     <copyright> &amp;copy;{year}, Mohamed Tita; DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE&lt;/p&gt;
     &lt;a href=&#34;http://www.wtfpl.net/&#34;&gt;&lt;img
-           src=&#34;../images/wtfpl-badge-4.png&#34;
+           src=&#34;../../images/wtfpl-badge-4.png&#34;
            width=&#34;80&#34; height=&#34;15&#34; alt=&#34;WTFPL&#34; /&gt;&lt;/a&gt;
 </copyright>
     <lastBuildDate>Tue, 31 Dec 2019 22:37:38 +0100</lastBuildDate>
     
-        <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/categories/page/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
-        <title>page</title>
-        <link>/categories/page/</link>
+        <title>Mirrors</title>
+        <link>/page/mirrors/</link>
         <pubDate>Tue, 31 Dec 2019 22:37:38 +0100</pubDate>
         <author>hi@mtita.me (Mohamed Tita)</author>
-        <guid>/categories/page/</guid>
-        <description></description>
-      </item>
-      
-      <item>
-        <title>blog</title>
-        <link>/categories/blog/</link>
-        <pubDate>Tue, 31 Dec 2019 19:01:55 +0100</pubDate>
-        <author>hi@mtita.me (Mohamed Tita)</author>
-        <guid>/categories/blog/</guid>
-        <description></description>
+        <guid>/page/mirrors/</guid>
+        <description>You can access this blog on these mirrors
+1 2 3  IPFS | https://ipfs.io/ipns/blog.mtita.me Tor | https://kph2zi52ln3ogwtz.onion/   The security warning you&#39;ll get on the Tor mirror is normal - couldn&#39;t afford a 350$ SSL cert :D
+//Other usefull mirrors to be added later here </description>
       </item>
       
     

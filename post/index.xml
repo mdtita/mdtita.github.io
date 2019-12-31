@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Icarus Diaries</title>
-    <link>https://blog.mtita.me/post/</link>
+    <link>/post/</link>
     <description>Recent content in Posts on Icarus Diaries</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -15,17 +15,17 @@
 </copyright>
     <lastBuildDate>Tue, 31 Dec 2019 19:01:55 +0100</lastBuildDate>
     
-        <atom:link href="https://blog.mtita.me/post/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>2019</title>
-        <link>https://blog.mtita.me/post/2019/</link>
+        <link>/post/2019/</link>
         <pubDate>Tue, 31 Dec 2019 19:01:55 +0100</pubDate>
         <author>hi@mtita.me (Mohamed Tita)</author>
-        <guid>https://blog.mtita.me/post/2019/</guid>
+        <guid>/post/2019/</guid>
         <description>التدوينة دي مرت بمراحل كتير بداية من بوست على فيسبوك ميشوفهوش غير ناس محددة مروراً بتسجيل صوتي الوصول ليه محدود برضو لحد ما قررت في النهاية إني أكتب بشكل عام خصوصاً إني مش عارف أنا عايز أقول إيه تحديداً وتحديداً عايز أقول لمين.
  في صديق دايماً يقولي إني عندي نزوع للدراما وإني دايماً عندي نظرة أبوكالبتيك للعالم يمكن ده حقيقي لكن اللي متأكد منه إني مش شخص رومانسي (المدرسة الفلسفية مش التعبير الدارج عن علاقات الحب).</description>
       </item>
