@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>personal on Icarus Diaries</title>
     <link>/tags/personal/</link>
@@ -8,28 +13,55 @@
     <language>en</language>
     <managingEditor>hi@mtita.me (Mohamed Tita)</managingEditor>
     <webMaster>hi@mtita.me (Mohamed Tita)</webMaster>
-    <copyright> &amp;copy;{year}, Mohamed Tita; DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE&lt;/p&gt;
-    &lt;a href=&#34;http://www.wtfpl.net/&#34;&gt;&lt;img
-           src=&#34;../../images/wtfpl-badge-4.png&#34;
-           width=&#34;80&#34; height=&#34;15&#34; alt=&#34;WTFPL&#34; /&gt;&lt;/a&gt;
-</copyright>
+    <copyright>©{year}, Mohamed Tita</copyright>
     <lastBuildDate>Tue, 31 Dec 2019 19:01:55 +0100</lastBuildDate>
     
         <atom:link href="/tags/personal/index.xml" rel="self" type="application/rss+xml" />
     
     
     
+
       
       <item>
         <title>2019</title>
         <link>/post/2019/</link>
         <pubDate>Tue, 31 Dec 2019 19:01:55 +0100</pubDate>
         <author>hi@mtita.me (Mohamed Tita)</author>
+        <atom:modified>Tue, 31 Dec 2019 19:01:55 +0100</atom:modified>
         <guid>/post/2019/</guid>
         <description>التدوينة دي مرت بمراحل كتير بداية من بوست على فيسبوك ميشوفهوش غير ناس محددة مروراً بتسجيل صوتي الوصول ليه محدود برضو لحد ما قررت في النهاية إني أكتب بشكل عام خصوصاً إني مش عارف أنا عايز أقول إيه تحديداً وتحديداً عايز أقول لمين.
  في صديق دايماً يقولي إني عندي نزوع للدراما وإني دايماً عندي نظرة أبوكالبتيك للعالم يمكن ده حقيقي لكن اللي متأكد منه إني مش شخص رومانسي (المدرسة الفلسفية مش التعبير الدارج عن علاقات الحب).</description>
+        
+        <dc:creator>Mohamed Tita</dc:creator>
+        
+        <media:content url="/image/88.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+          
+            
+              <category>thoughts</category>
+            
+          
+            
+              <category>personal</category>
+            
+          
+            
+              <category>blog</category>
+            
+          
+        
+        
+          
+            
+              <category>blog</category>
+            
+          
+        
+        
       </item>
       
+
     
   </channel>
 </rss>

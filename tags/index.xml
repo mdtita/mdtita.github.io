@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tags on Icarus Diaries</title>
     <link>/tags/</link>
@@ -8,25 +13,31 @@
     <language>en</language>
     <managingEditor>hi@mtita.me (Mohamed Tita)</managingEditor>
     <webMaster>hi@mtita.me (Mohamed Tita)</webMaster>
-    <copyright> &amp;copy;{year}, Mohamed Tita; DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE&lt;/p&gt;
-    &lt;a href=&#34;http://www.wtfpl.net/&#34;&gt;&lt;img
-           src=&#34;../images/wtfpl-badge-4.png&#34;
-           width=&#34;80&#34; height=&#34;15&#34; alt=&#34;WTFPL&#34; /&gt;&lt;/a&gt;
-</copyright>
+    <copyright>©{year}, Mohamed Tita</copyright>
     <lastBuildDate>Tue, 31 Dec 2019 19:01:55 +0100</lastBuildDate>
     
         <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     
+
       
       <item>
         <title>blog</title>
         <link>/tags/blog/</link>
         <pubDate>Tue, 31 Dec 2019 19:01:55 +0100</pubDate>
         <author>hi@mtita.me (Mohamed Tita)</author>
+        
         <guid>/tags/blog/</guid>
         <description></description>
+        
+        <dc:creator>Mohamed Tita</dc:creator>
+        
+        
+        
+        
+        
+        
       </item>
       
       <item>
@@ -34,8 +45,17 @@
         <link>/tags/personal/</link>
         <pubDate>Tue, 31 Dec 2019 19:01:55 +0100</pubDate>
         <author>hi@mtita.me (Mohamed Tita)</author>
+        
         <guid>/tags/personal/</guid>
         <description></description>
+        
+        <dc:creator>Mohamed Tita</dc:creator>
+        
+        
+        
+        
+        
+        
       </item>
       
       <item>
@@ -43,10 +63,38 @@
         <link>/tags/thoughts/</link>
         <pubDate>Tue, 31 Dec 2019 19:01:55 +0100</pubDate>
         <author>hi@mtita.me (Mohamed Tita)</author>
+        
         <guid>/tags/thoughts/</guid>
         <description></description>
+        
+        <dc:creator>Mohamed Tita</dc:creator>
+        
+        
+        
+        
+        
+        
       </item>
       
+      <item>
+        <title>index</title>
+        <link>/tags/index/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>hi@mtita.me (Mohamed Tita)</author>
+        
+        <guid>/tags/index/</guid>
+        <description></description>
+        
+        <dc:creator>Mohamed Tita</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
     
   </channel>
 </rss>

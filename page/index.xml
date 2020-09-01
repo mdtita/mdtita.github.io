@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Pages on Icarus Diaries</title>
     <link>/page/</link>
@@ -8,41 +13,63 @@
     <language>en</language>
     <managingEditor>hi@mtita.me (Mohamed Tita)</managingEditor>
     <webMaster>hi@mtita.me (Mohamed Tita)</webMaster>
-    <copyright> &amp;copy;{year}, Mohamed Tita; DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE&lt;/p&gt;
-    &lt;a href=&#34;http://www.wtfpl.net/&#34;&gt;&lt;img
-           src=&#34;../images/wtfpl-badge-4.png&#34;
-           width=&#34;80&#34; height=&#34;15&#34; alt=&#34;WTFPL&#34; /&gt;&lt;/a&gt;
-</copyright>
+    <copyright>©{year}, Mohamed Tita</copyright>
     <lastBuildDate>Tue, 31 Dec 2019 22:37:38 +0100</lastBuildDate>
     
         <atom:link href="/page/index.xml" rel="self" type="application/rss+xml" />
     
     
     
+
       
       <item>
         <title>Mirrors</title>
         <link>/page/mirrors/</link>
         <pubDate>Tue, 31 Dec 2019 22:37:38 +0100</pubDate>
         <author>hi@mtita.me (Mohamed Tita)</author>
+        <atom:modified>Tue, 31 Dec 2019 22:37:38 +0100</atom:modified>
         <guid>/page/mirrors/</guid>
         <description>You can access this blog on these mirrors
-1 2 3  IPFS | https://ipfs.io/ipns/blog.mtita.me Tor | https://kph2zi52ln3ogwtz.onion/   The security warning you&#39;ll get on the Tor mirror is normal - couldn&#39;t afford a 350$ SSL cert :D
-//Other usefull mirrors to be added later here </description>
+IPFS | https://ipfs.io/ipns/blog.mtita.me
+Tor | http://mtitaofba2uban3b.onion/</description>
+        
+        <dc:creator>Mohamed Tita</dc:creator>
+        
+        
+        
+        
+        
+          
+            
+              <category>page</category>
+            
+          
+        
+        
       </item>
       
       <item>
         <title>About</title>
-        <link>/page/about/</link>
+        <link>/page/about.ar./</link>
         <pubDate>Sat, 21 Dec 2013 19:06:17 +0100</pubDate>
         <author>hi@mtita.me (Mohamed Tita)</author>
-        <guid>/page/about/</guid>
+        <atom:modified>Sat, 21 Dec 2013 19:06:17 +0100</atom:modified>
+        <guid>/page/about.ar./</guid>
         <description>ليه إيكاروس ؟
  إيكاروس شخصية خيالية من الميثولوجيا اليونانية وزي أي قصة خيالية كل واحد بيفسرها علي مزاجه وبيشوف حكمة القصة بمنظور مختلف أنا بشوفها حدوتة مألوفة جدا، ما بين أجنحة ملزوقة بالشمع وشمس شديدة مبترحمش لكن مثيرة للفضول جداً ورغبة في التجربة وعينين مفتوحة علي العالم ومتجاهلة كل التحذيرات وسقوط مؤلم في النهاية … فعلاً قصة مألوفة جداً
  ليه ؟؟
  التقنية الحديثة ممكن تساعد في بناء عالم أفضل وممكن تدمر العالم دهبيعتمد على مين اللي بيستغلها وليه، وطالما هي دي المعركة بتاعت عصرنا يبقى على الأقل لازم نشارك معرفتنا مع بعض ونحاول ندفع ناحية الإختيار الأول رغم صعوبته لكنه مازال مش مستحيل.</description>
+        
+        <dc:creator>Mohamed Tita</dc:creator>
+        
+        
+        
+        
+        
+        
       </item>
       
+
     
   </channel>
 </rss>
